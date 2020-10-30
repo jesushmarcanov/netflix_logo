@@ -1,3 +1,13 @@
+body {
+    background-color: #000000;
+}
+
+h1{
+    font-family: 'Open sans';
+    color: #ffffff;
+    text-align: center;
+}
+
 /*Declaración de variables*/
 
 :root {
@@ -54,5 +64,5 @@
     width: 702px;
     height: 357px;
     border-radius: 50%;
-    background-color:  var(--bg-color);
+    background-color:  var(--color-hover);
 }
